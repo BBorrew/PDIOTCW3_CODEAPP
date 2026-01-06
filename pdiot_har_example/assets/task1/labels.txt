@@ -1,0 +1,11 @@
+descending
+ascending
+lyingStomach
+lyingRight
+lyingLeft
+lyingBack
+miscMovement
+normalWalking
+running
+shuffleWalking
+sittingStanding
